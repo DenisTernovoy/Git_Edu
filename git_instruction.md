@@ -134,4 +134,4 @@ git merge <название ветки>
 
 ![fix_conflicts](fix_conflict.png)
 
-
+## 15. Удаление веток
